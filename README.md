@@ -17,4 +17,4 @@ organizarem com tarefas para serem cumpridas ao longo do dia, da semana e do
 mês, fazeno com o usuário tenha clareza do que deve ser feito a partir das suas
 demandas.
 
-Proejto da materia Linguagem de Programação I juntamente com Banco de Dados I
+Proejto da materia Linguagem de Programação I juntamente com Banco de Dados I (2022)
